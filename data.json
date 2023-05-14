@@ -1,0 +1,39 @@
+{
+    "pie-chart": {
+        "chartSeries": [40, 32, 28, 55],
+        "chartDetails": {
+            "type": "pie",
+            "toolbar": {
+              "show": true
+            }
+          },
+          "chartLabels": ["Apple", "Microsoft", "Facebok", "Google"],
+          "chartTitle": {
+            "text": "Leading Companies",
+            "align": "center"
+          },
+          "chartDataLabels": { "enabled": false }
+    },
+    "line-chart": {
+        "chartSeries": 
+          {
+            "name": "Series 1",
+            "data": [30, 40, 35, 50, 49, 60, 70, 91, 125]
+          },
+        "chartDetails": {
+            "type": "line",
+            "height": 350
+          },
+        "chartXA": { "categories": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"] },
+        "dataLabels": { "enabled": true },
+        "grid": { "show": true },
+        "charStroke": { "width": 2 },
+        "chartTitle": { "text": "Line Chart Example" },
+        "chartMarkers": { "size": 4 },
+        "chartYAxis": {
+            "min": 0,
+            "max": 150
+          },      
+        "chartFill": { "type": "solid" }
+    }
+}

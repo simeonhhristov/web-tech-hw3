@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+#main-button {
+    background-color: green;
+    height: 40px;
+    width: 200px;
+    color: white;
+    border: 0;
+    border-radius: 4px;
+}
+
+#wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    border: 2px solid green;
+    border-radius: 4px;
+}
+
+#data-analysis {
+    list-style-type:none;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-g
+}
+
+#data-analysis > li {
+    display: list-item;
+    background: black;
+    padding: 5px 10px;
+    color: white;
+    margin: 3px;
+}
