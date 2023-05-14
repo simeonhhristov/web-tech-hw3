@@ -1,0 +1,84 @@
+{
+  "people": [
+    {
+      "name": "Georgi",
+      "height": 182,
+      "weight": 94,
+      "age": 21,
+      "eyeColor": "brown",
+      "hairColor": "black",
+      "hairType": "straight",
+      "job": "software engineer"
+    },
+    {
+      "name": "Krasimir",
+      "height": 187,
+      "weight": 90,
+      "age": 23,
+      "eyeColor": "blue",
+      "hairColor": "black",
+      "hairType": "straight",
+      "job": "software engineer"
+    },
+    {
+      "name": "Esteban",
+      "height": 178,
+      "weight": 105,
+      "age": 19,
+      "eyeColor": "brown",
+      "hairColor": "blonde",
+      "hairType": "curly",
+      "job": "unemployed"
+    },
+    {
+      "name": "Pier",
+      "height": 183,
+      "weight": 79,
+      "age": 21,
+      "eyeColor": "brown",
+      "hairColor": "black",
+      "hairType": "curly",
+      "job": "construction worker"
+    },
+    {
+      "name": "Max",
+      "height": 185,
+      "weight": 81,
+      "age": 25,
+      "eyeColor": "brown",
+      "hairColor": "ginger",
+      "hairType": "curly",
+      "job": "seller"
+    },
+    {
+      "name": "Lewis",
+      "height": 184,
+      "weight": 81.2,
+      "age": 27,
+      "eyeColor": "brown",
+      "hairColor": "black",
+      "hairType": "curly",
+      "job": "seller"
+    },
+    {
+      "name": "Stoyan",
+      "height": 184,
+      "weight": 84.3,
+      "age": 27,
+      "eyeColor": "brown",
+      "hairColor": "blonde",
+      "hairType": "straight",
+      "job": "software engineer"
+    },
+    {
+      "name": "Ramires",
+      "height": 194,
+      "weight": 84.3,
+      "age": 20,
+      "eyeColor": "brown",
+      "hairColor": "ginger",
+      "hairType": "straight",
+      "job": "software engineer"
+    }
+  ]
+}
